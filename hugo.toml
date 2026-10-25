@@ -8,6 +8,7 @@ pagerSize = 10
   defaultTheme = 'auto'
   ShowReadingTime = true
   ShowToc = true
+
   [[params.socialIcons]]
     name = 'github'
     url = 'https://github.com/n0irp3n'
