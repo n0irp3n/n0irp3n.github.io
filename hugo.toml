@@ -1,4 +1,20 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://n0irp3n.github.io/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Blog - n0irp3n'
 theme = 'PaperMod'
+pagerSize = 10
+
+[params]
+  defaultTheme = 'auto'
+  ShowReadingTime = true
+  ShowToc = true
+
+[menu]
+  [[menu.main]]
+    name = 'Posts'
+    url = '/posts/'
+    weight = 1
+  [[menu.main]]
+    name = 'Tags'
+    url = '/tags/'
+    weight = 2
