@@ -9,6 +9,10 @@ pagerSize = 10
   ShowReadingTime = true
   ShowToc = true
 
+  [[params.socialIcons]]
+    name = 'github'
+    url = 'https://github.com/n0irp3n'
+
 [menu]
   [[menu.main]]
     name = 'Posts'
